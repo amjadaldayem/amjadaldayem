@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jadaldaim.jadaldaim&left_text=Profile%20Views"  />
 </div>
 
-<h1 align="center">Hello,  I am Jad 👋</h1>
+<h1 align="center">Hello,  I am Amjad 👋</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
