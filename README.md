@@ -4,10 +4,12 @@
 
 <h1 align="center">Hello,  I am Amjad 👋</h1>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me 💻</h3>
 
 
-<p align="left">As a seasoned Full Stack Developer, I excel in creating immersive user interfaces with React, Angular, and Vue.js, and developing scalable backend solutions using Node.js, Ruby on Rails, and Django. Proficient in serverless technologies like AWS Lambda and Azure Functions, I architect cloud-native applications for optimal performance. My expertise includes CI/CD pipelines (GitLab CI/CD, Jenkins, GitHub Actions), version control (Git), and containerization (Docker, Kubernetes). With extensive experience in eCommerce, healthcare, and real-time data synchronization, I thrive in collaborative environments, delivering impactful and innovative solutions.</p>
+<p align="left">I'm a Senior Full Stack Developer with 10+ years of experience in building dynamic front-ends with React, Angular, and Vue.js, paired with scalable back-ends using Node.js, Ruby on Rails, and Django. I design efficient cloud-native applications leveraging AWS Lambda and Azure Functions. Proficient in CI/CD pipelines, Git, and containerization with Docker/Kubernetes.
+
+With a background in eCommerce, healthcare, and real-time data, I excel in creating impactful, user-focused solutions. Always up for collaborative challenges and innovative development. 🚀</p>
 
 
 <h3 align="left">Contact Information</h3>
@@ -145,8 +147,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gatsby/663399" height="40" alt="gatsby logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
   <img width="12" />
